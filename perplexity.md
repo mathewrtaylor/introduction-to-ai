@@ -1,100 +1,117 @@
-Hands-On Perplexity AI Workshop
-Workshop Agenda Overview
-Section	Time	Objective
-Intro & Icebreaker	10m	Warm up, introduce LLMs/AI, demystify Perplexity
-Capabilities Overview	15m	Show what Perplexity does differently
-Live Demo Prompts	15m	Quick, interactive examples
-Team Game & Workshop	30m	Practice in teams with real use cases
-Reflection & Q&A	10m	Share findings, ask questions
-1. Introduction & Icebreaker
-Briefly explain AI & LLMs:
-An LLM (Large Language Model) is a neural network trained on a massive chunk of the internet, designed to answer questions, summarize content, and help you think.
+# Hands-On Perplexity AI Workshop
 
-Perplexity in one line:
-Perplexity is like a supercharged AI search assistant—it finds, summarizes, and cites real sources for anything you ask.
+## Workshop Agenda Overview
 
-Icebreaker activity:
-Play quick AI trivia or have participants guess if an answer is AI- or human-written.
+| Section                   | Time | Objective                            |
+|---------------------------|------|--------------------------------------|
+| Intro & Icebreaker        | 10m  | Warm up, introduce LLMs/AI, demystify Perplexity |
+| Capabilities Overview     | 15m  | Show what Perplexity does differently |
+| Live Demo Prompts         | 15m  | Quick, interactive examples           |
+| Team Game & Workshop      | 30m  | Practice in teams with real use cases |
+| Reflection & Q&A          | 10m  | Share findings, ask questions         |
 
-2. Capabilities Overview
-What Perplexity does:
+---
 
-Searches and cites real, up-to-date information.
+## 1. Introduction & Icebreaker
 
-“Copilot” feature asks clarifying questions, guiding better prompts.
+- **Briefly explain AI & LLMs:**  
+  An LLM (Large Language Model) is a neural network trained on a massive chunk of the internet, designed to answer questions, summarize content, and help you think.
 
-Works with images, PDFs, and files, not just text.
+- **Perplexity in one line:**  
+  Perplexity is like a supercharged AI search assistant—it finds, summarizes, and cites real sources for anything you ask.
 
-Can switch between top AI models like ChatGPT, Claude, and Gemini (Pro version).
+- **Icebreaker activity:**  
+  Play quick AI trivia or have participants guess if an answer is AI- or human-written.
 
-Organizes conversations into collections for easy reference.
+---
 
-Offers “Focus” mode (search Reddit, YouTube, etc.) and “Related” follow-up questions.
+## 2. Capabilities Overview
 
-Fast, ad-free, unbiased answers with clear source citations.
+**What Perplexity does:**
 
-3. Live Demo Prompts
-“What’s the most recent update in [industry/topic]?” (shows current info + citations)
+- Searches and cites real, up-to-date information.
+- “Copilot” feature asks clarifying questions, guiding better prompts.
+- Works with images, PDFs, and files—not just text.
+- Can switch between top AI models like ChatGPT, Claude, and Gemini (Pro version).
+- Organizes conversations into collections for easy reference.
+- Offers “Focus” mode (search Reddit, YouTube, etc.) and “Related” follow-up questions.
+- Delivers fast, ad-free, unbiased answers with clear source citations.
 
-“Summarize the pros and cons of [technology/concept] in a table.”
+---
 
-“Give me 3 actionable tips to improve teamwork, citing sources.”
+## 3. Live Demo Prompts
 
-“What’s this image?” (Upload a pic)
+Examples you can demo live:
 
-“Find me 5 project management tools—summarize and link to reviews.”
+- What’s the most recent update in `[industry/topic]`? (shows current info + citations)
+- Summarize the pros and cons of `[technology/concept]` in a table.
+- Give me 3 actionable tips to improve teamwork, citing sources.
+- What’s this image? (Upload a photo)
+- Find me 5 project management tools—summarize and link to reviews.
 
-Highlights to demonstrate:
+**Highlights to demonstrate:**
 
-Copilot clarifying questions.
+- Copilot clarifying questions.
+- Switching focus (Reddit, YouTube, or web sources).
+- Thread organization and collections.
 
-Switching sources (Reddit, YouTube, web).
+---
 
-Thread organization and collections.
+## 4. Game/Workshop: Perplexity Power-User Quest
 
-4. Game/Workshop: Perplexity Power-User Quest
-Break into 5–6 teams.
+**Instructions:**
 
-Each team gets a set of challenge prompts (printed or digital), ranging from simple to advanced (e.g., fact-finding, summarizing a PDF, extracting info from an image, solving a math problem, brainstorming, etc.).
+1. Break into 5–6 teams.
+2. Each team gets a set of challenge prompts (printed or digital), ranging from simple to advanced:
+    - Fact-finding
+    - Summarizing a PDF
+    - Extracting info from an image
+    - Solving a math problem
+    - Brainstorming with Perplexity
+3. Teams use Perplexity and race to complete their set, recording:
+    - The prompt they used
+    - The answer
+    - Any Copilot clarifying questions or surprising results
+4. Teams share the best or most surprising thing they learned in a lightning round.
 
-Teams use Perplexity and race to complete their set, recording:
+**Bonus Variations:**
 
-The prompt they used
+- **Prompt Bingo:**  
+  Fill a bingo card with Perplexity accomplishments (used Focus mode, uploaded an image, switched models, etc.).
 
-The answer
+- **Prompt-Off:**  
+  Teams craft creative prompts; group votes on “most useful,” “most creative,” and “biggest AI surprise.”
 
-Any Copilot clarifying questions or surprising results
+---
 
-Teams share the best or most surprising thing they learned in a lightning round.
+## 5. Reflection & Q&A
 
-Variations:
+- **Roundtable:** Who found a use case for their daily work or life?
+- What would make using Perplexity easier tomorrow?
 
-Prompt Bingo: Fill a bingo card with Perplexity accomplishments (e.g., used Focus mode, uploaded an image, switched models).
+---
 
-Prompt-Off: Teams craft creative prompts; vote on “most useful”, “most creative”, “biggest AI surprise”.
+## Unique Perplexity Features
 
-5. Reflection & Q&A
-Roundtable:
-Who found a use case for their daily work or life?
+| Feature                | Why It Matters                                       |
+|------------------------|------------------------------------------------------|
+| Copilot/clarifying Qs  | Improves search for all users, no prompt expertise needed |
+| Real-time info & citations | Reliable research, current news, and fact-checking    |
+| Multimodal support     | Use files, images, and more—not just text            |
+| Focus search           | Search Reddit, YouTube, Academic sources directly    |
+| Related suggestions    | Prompts for helpful follow-up inquiries              |
+| Model switching        | Compare ChatGPT, Claude, Gemini answers (Pro version)|
+| Thread collections     | Organize and reuse work with ease                    |
 
-What would make using Perplexity easier tomorrow?
+---
 
-Unique Perplexity Features Table
-Feature	Why It Matters
-Copilot/clarifying Qs	Improves search for all users, no prompt expertise needed.
-Real-time info & citations	Reliable research, current news, and fact-checking.
-Multimodal support	Use files, images, and more—not just text.
-Focus search	Easily search Reddit, YouTube, Academic sources directly.
-Related suggestions	Prompts for helpful follow-up inquiries.
-Model switching	Compare ChatGPT, Claude, Gemini answers (Pro version).
-Thread collections	Organize and reuse work with ease.
-Demo Prompts for Participants
-“Summarize the three biggest trends in AI for 2025, with recent sources.”
+## Demo Prompts for Participants
 
-“I have a PDF/manual—extract the top 3 tips for using [tool].”
+- Summarize the three biggest trends in AI for 2025, with recent sources.
+- I have a PDF/manual—extract the top 3 tips for using `[tool]`.
+- Show the sentiment around `[new product]` using Reddit posts.
+- How do I automate `[task]` in my job? Give detailed, cited steps.
 
-“Show the sentiment around [new product] using Reddit posts.”
+---
 
-“How do I automate [task] in my job? Give detailed, cited steps.”
-
-This plan helps teams build comfort, find practical uses, and uncover the unique power of Perplexity together!
+_This plan helps teams build comfort, find practical uses, and uncover the unique power of Perplexity together!_
