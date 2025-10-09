@@ -5,7 +5,10 @@
 </p>
 
 # Introduction-to-AI
-Use the same prompt, get introductions from LLMs.
+Use the same prompt, get introductions from LLMs. 
+
+## Intent
+Would like to use this as a go to resource for someone trying to introduce specific LLMs to a wider audience.
 
 # Prompt
 ```
