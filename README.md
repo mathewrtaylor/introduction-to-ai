@@ -34,3 +34,4 @@ This is well done, thank you. Could you convert this to md Markup please?
 -   [Grok](./grok.md)
 -   [Mistral](./mistral.md)
 -   [Perplixity](./perplexity.md)
+-   [Poe](./poe.md)
