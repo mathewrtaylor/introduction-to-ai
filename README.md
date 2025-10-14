@@ -26,12 +26,12 @@ This is well done, thank you. Could you convert this to md Markup please?
 ```
 
 # Results
--   [ChatGPT](./chatgpt.md)
--   [Claude](./claude.md)
--   [CoPilot](./copilot.md)
--   [deepseek](./deepseek.md)
--   [Gemini](./gemini.md)
--   [Grok](./grok.md)
--   [Mistral](./mistral.md)
--   [Perplixity](./perplexity.md)
--   [Poe](./poe.md)
+-   [ChatGPT](./Workshops/chatgpt.md)
+-   [Claude](./Workshops/claude.md)
+-   [CoPilot](./Workshops/copilot.md)
+-   [deepseek](./Workshops/deepseek.md)
+-   [Gemini](./Workshops/gemini.md)
+-   [Grok](./Workshops/grok.md)
+-   [Mistral](./Workshops/mistral.md)
+-   [Perplixity](./Workshops/perplexity.md)
+-   [Poe](./Workshops/poe.md)
