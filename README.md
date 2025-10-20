@@ -10,6 +10,7 @@ Resources to educate and raise AI Literacy!
 
 ### Resources
 -   [Dictionary](./Dictionary/)
+-   [Tools](./Tools/)
 -   [Email Communications](./Vignettes/)
 -   [Workshops and Demos](./Workshops/)
 
