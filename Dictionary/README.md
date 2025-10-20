@@ -4,3 +4,5 @@
   - **Analogy**
 
 ---
+
+  - [Dictionary](Dictionary.md)

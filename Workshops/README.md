@@ -18,3 +18,14 @@ This is to achieve 3 objectives:
 ```
 This is well done, thank you. Could you convert this to md Markup please?
 ```
+
+---
+-   [ChatGPT](chatgpt.md)
+-   [Claude](claude.md)
+-   [CoPilot](copilot.md)
+-   [DeepSeek](deepseek.md)
+-   [Gemini](gemini.md)
+-   [Grok](grok.md)
+-   [Mistral](mistral.md)
+-   [Perplexity](perplexity.md)
+-   [Poe](poe.md)
