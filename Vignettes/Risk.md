@@ -428,6 +428,8 @@ Encourage transparency with prompts like:
 ---
 </details>
 
+---
 
-[Back to Vignettes](README.md)
+
+[Back to Vignettes](README.md)<br>
 [Back to Main](/README.md)

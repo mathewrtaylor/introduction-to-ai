@@ -390,5 +390,5 @@ Thanks for your patience! Here's the next section of your **AI Jargon Dictionary
 ---
 
 
-[Back to Dictonary](README.md)
+[Back to Dictonary](README.md)<br>
 [Back to Main](/README.md)

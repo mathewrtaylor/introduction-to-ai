@@ -92,5 +92,5 @@ A hands-on, engaging workshop for teams to build familiarity with Mistral, raise
 ---
 
 
-[Back to Workshops](README.md)
+[Back to Workshops](README.md)<br>
 [Back to Main](/README.md)

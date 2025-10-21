@@ -14,3 +14,4 @@ Resources to educate and raise AI Literacy!
 -   [Email Communications](./Vignettes/)
 -   [Workshops and Demos](./Workshops/)
 
+---

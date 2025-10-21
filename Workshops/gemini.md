@@ -72,5 +72,5 @@ The goal is to solve a common professional challenge using Gemini, hitting three
 ---
 
 
-[Back to Workshops](README.md)
+[Back to Workshops](README.md)<br>
 [Back to Main](/README.md)
