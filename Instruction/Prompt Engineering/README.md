@@ -2,7 +2,7 @@
 ## LEVEL 1: Basic (Foundations of Prompting)
 <details>
 
-### Course 1: What Even Is a Prompt?
+### [Course 1: What Even Is a Prompt?](Foundations%20of%20Prompting.md)
 
 - **Objective:** Understand what prompts are, why they matter, and how they shape AI responses.
 - **Humor:** “Prompts are like coffee orders for AI—be vague and you get decaf sadness.”
