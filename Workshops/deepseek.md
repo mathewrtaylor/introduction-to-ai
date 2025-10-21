@@ -154,3 +154,9 @@
 8.  **The 4 Quests**
 9.  **Key Takeaways & Your Challenge**
 10. **Resources & Q&A**
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

@@ -115,3 +115,9 @@ Examples you can demo live:
 ---
 
 _This plan helps teams build comfort, find practical uses, and uncover the unique power of Perplexity together!_
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

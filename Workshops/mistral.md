@@ -88,3 +88,9 @@ A hands-on, engaging workshop for teams to build familiarity with Mistral, raise
 - **Engagement:** Games and teamwork make learning fun and memorable.
 - **Inclusivity:** Tasks cater to all skill levels.
 - **Practicality:** Focuses on real-world applications, not just theory.
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

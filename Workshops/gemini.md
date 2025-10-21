@@ -68,3 +68,9 @@ The goal is to solve a common professional challenge using Gemini, hitting three
 2.  **The Homework Prompt:** Give them a useful prompt to try out *tomorrow*:
     > "Draft a daily to-do list for me. Organize it by priority (High, Medium, Low) and include a 15-minute block for 'AI Experimentation' in the schedule. Base the list on the three most common tasks of my job."
 3.  **Final Statement:** Reiterate that AI is a **tool**, not a replacement. Increasing their literacy and comfort means they are better equipped to leverage the world's most powerful new co-pilot.
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

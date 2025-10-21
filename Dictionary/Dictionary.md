@@ -388,3 +388,7 @@ Thanks for your patience! Here's the next section of your **AI Jargon Dictionary
 - **Analogy**: Imagine being asked to cook a dish you’ve never heard of, but you’ve seen enough cooking shows to wing it.
 
 ---
+
+
+[Back to Dictonary](README.md)
+[Back to Main](/README.md)

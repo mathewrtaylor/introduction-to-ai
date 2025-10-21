@@ -504,3 +504,7 @@ The future of AI isn’t just about technology—it’s about people, purpose, a
 
 ---	
 </details>
+
+
+[Back to Vignettes](README.md)
+[Back to Main](/README.md)

@@ -96,3 +96,9 @@ Split into teams of 3–5. Each team gets a **quest card** with 3 challenges. Th
 - **Leaderboard** for ongoing Copilot challenges post-workshop
 - **Copilot Prompt Wall** in the office for sharing cool uses
 - **Follow-up session** for advanced use cases (e.g., coding, automation)
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

@@ -122,3 +122,9 @@ This workshop is designed to be fun and interactive, using storytelling to hook 
 
 **Notes:**  
 This design ensures inclusivity, fun (via game/humor), and progress toward objectives. If adapting for Perplexity (per user mention), swap Grok demos with its search-focused features, but Grok's X/tools make it uniquely engaging for teams. For subscription details, redirect to [x.ai/grok](https://x.ai/grok).
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

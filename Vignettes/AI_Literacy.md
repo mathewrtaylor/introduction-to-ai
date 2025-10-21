@@ -376,3 +376,7 @@ Pick one AI-related resource to follow—like a newsletter, podcast, or blog. Se
 
 ---	
 </details>
+
+
+[Back to Vignettes](README.md)
+[Back to Main](/README.md)

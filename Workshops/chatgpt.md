@@ -185,3 +185,9 @@ Convert this list of messy data into a clean CSV with headers
 - “Turn this plain text list into a formatted table.”
 - “Translate this email into French, keep it casual.”
 - “Write a tweet based on this paragraph.”
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

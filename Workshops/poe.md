@@ -49,3 +49,9 @@
 - **Interactive Elements**: Use tools to allow real-time feedback (e.g., live polls).
 - **Gamification**: Consider adding a points system for teams based on creativity, problem-solving, and presentation skills.
 - **Visual Aids**: Use slides or visual tools to illustrate key concepts and make the session more dynamic.
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)

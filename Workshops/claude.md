@@ -306,3 +306,9 @@ Let participants choose their own adventure:
 ---
 
 **Remember:** The goal isn't perfection—it's demystifying AI and building confidence through hands-on practice!
+
+---
+
+
+[Back to Workshops](README.md)
+[Back to Main](/README.md)
