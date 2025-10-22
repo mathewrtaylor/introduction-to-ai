@@ -3,46 +3,50 @@
     - [Worksheet](#-course-4-worksheet-prompt-tuning--iteration)
 -   [Course 5](#-course-5-chain-of-thought--step-by-step-reasoning)
     - [Worksheet](#-course-5-worksheet-chain-of-thought--step-by-step-reasoning)
+-   [Course 6](#-course-6-worksheet-role-prompting--context-framing)
+    - [Worksheet](#-course-6-worksheet-role-prompting--context-framing)
+-   [Experienced Level Exercise](#-end-of-level-exercise-prompt-refinement-lab)
 
 ---
+
+
 # 🧠 [Course 4: Prompt Tuning & Iteration](#-course-4-prompt-tuning--iteration)
 *[Back to Top](#-index)*
 
 ## 🎯 Learning Objectives
 By the end of this session, participants will be able to:
 
-Understand the concept of prompt tuning through iterative refinement.
-Identify when and why a prompt needs adjustment.
-Apply a structured approach to improving prompt performance.
-Use feedback loops to guide prompt evolution.
+- Understand the concept of prompt tuning through iterative refinement.
+- Identify when and why a prompt needs adjustment.
+- Apply a structured approach to improving prompt performance.
+- Use feedback loops to guide prompt evolution.
 
 
 🗂️ Course Structure (Live Session)
 1. Icebreaker: “AI Misinterpretation Theater” (5 min)
 
-Activity: Show a vague or poorly tuned prompt and its hilariously off-target output.
-Humor Injection: “Prompt tuning: because sometimes your AI thinks ‘summarize this report’ means ‘write a Shakespearean sonnet about quarterly losses.’”
-
+**Activity:** Show a vague or poorly tuned prompt and its hilariously off-target output.<br>
+**Humor Injection:** “Prompt tuning: because sometimes your AI thinks ‘summarize this report’ means ‘write a Shakespearean sonnet about quarterly losses.’”
 
 2. What Is Prompt Tuning? (10 min)
 
-Definition: The process of refining a prompt through trial, error, and feedback to improve output quality.
-Analogy: “It’s like adjusting your GPS instructions—if you keep ending up in a lake, maybe reword ‘take a left’.”
-Example: Show how a vague prompt evolves into a precise one through 3–4 iterations.
+**Definition:** The process of refining a prompt through trial, error, and feedback to improve output quality.<br>
+**Analogy:** “It’s like adjusting your GPS instructions—if you keep ending up in a lake, maybe reword ‘take a left’.”<br>
+**Example:** Show how a vague prompt evolves into a precise one through 3–4 iterations.
 
 
 3. Why Iteration Matters (10 min)
 
-Concepts:
+**Concepts:**
 
-AI models interpret language probabilistically.
+AI models interpret language probabilistically.<br>
 Small changes in phrasing can lead to big changes in output.
 
-
-Humor: “AI doesn’t read minds—it reads syntax. And sometimes it reads it like a tired intern on a Monday.”
+**Humor:** “AI doesn’t read minds—it reads syntax. And sometimes it reads it like a tired intern on a Monday.”
 
 
 4. The Iteration Framework (10 min)
+
 | Step | Action |
 |------|--------|
 | 1. Draft | Write your initial prompt. |
@@ -51,13 +55,13 @@ Humor: “AI doesn’t read minds—it reads syntax. And sometimes it reads it l
 | 4. Refine | Adjust wording, add constraints, clarify intent. |
 | 5. Repeat | Iterate until the output meets expectations. |
 
-Tip: Keep a “Prompt Lab Notebook” to track changes and results.
+**Tip:** Keep a “Prompt Lab Notebook” to track changes and results.
 
 
 5. Practice Activity (5 min)
 
-Activity: Participants are given a vague prompt and asked to refine it in 3 iterations.
-Example: Start with “Write something about meetings” → end with “Write a humorous 3-paragraph blog post about common meeting mistakes in remote teams.”
+**Activity:** Participants are given a vague prompt and asked to refine it in 3 iterations.<br>
+**Example:** Start with “Write something about meetings” → end with “Write a humorous 3-paragraph blog post about common meeting mistakes in remote teams.”
 
 
 6. Wrap-Up & Q&A (5 min)
@@ -67,48 +71,38 @@ Example: Start with “Write something about meetings” → end with “Write a
 
 What is prompt tuning?
 
-A) Changing the AI’s personality
-B) Refining a prompt through iteration
-C) Adjusting the model’s temperature
-D) Writing prompts in rhyme
-
-
+A) Changing the AI’s personality<br>
+B) Refining a prompt through iteration<br>
+C) Adjusting the model’s temperature<br>
+D) Writing prompts in rhyme<br>
 
 Why is iteration important in prompt engineering?
 
-A) It makes the AI faster
-B) It helps improve output quality
-C) It reduces server load
-D) It makes the AI more polite
-
-
+A) It makes the AI faster<br>
+B) It helps improve output quality<br>
+C) It reduces server load<br>
+D) It makes the AI more polite<br>
 
 What’s the first step in the iteration framework?
 
-A) Diagnose
-B) Refine
-C) Draft
-D) Repeat
-
-
+A) Diagnose<br>
+B) Refine<br>
+C) Draft<br>
+D) Repeat<br>
 
 Which of the following is a sign your prompt needs tuning?
 
-A) The output is perfect
-B) The output is vague or off-topic
-C) The AI asks for clarification
-D) The AI refuses to respond
-
-
+A) The output is perfect<br>
+B) The output is vague or off-topic<br>
+C) The AI asks for clarification<br>
+D) The AI refuses to respond<br>
 
 What’s a good practice when tuning prompts?
 
-A) Use random emojis
-B) Keep a log of prompt versions and results
-C) Always use the same prompt
-D) Avoid constraints
-
-
+A) Use random emojis<br>
+B) Keep a log of prompt versions and results<br>
+C) Always use the same prompt<br>
+D) Avoid constraints<br>
 
 
 📝 Take-Home Worksheet (Markdown)
@@ -118,7 +112,7 @@ D) Avoid constraints
 
 ## ✍️ Key Concepts
 
-- **Prompt Tuning** is the process of refining a prompt through trial and error.
+- Prompt Tuning is the process of refining a prompt through trial and error.
 - Small changes in wording can significantly affect AI output.
 - Iteration helps align the prompt with the desired outcome.
 
@@ -167,27 +161,27 @@ By the end of this session, participants will be able to:
 ## 🗂️ Course Structure (Live Session)
 1. Icebreaker: “AI Logic Leap” (5 min)
 
-Activity: Show an AI response that jumps to a conclusion without explanation.
-Humor Injection: “AI logic sometimes skips steps like a kid doing math homework with invisible ink.”
+**Activity:** Show an AI response that jumps to a conclusion without explanation.<br>
+**Humor:** “AI logic sometimes skips steps like a kid doing math homework with invisible ink.”
 
 
 2. What Is Chain-of-Thought Prompting? (10 min)
 
-Definition: A technique that encourages the AI to reason through a problem step-by-step before giving an answer.
-Analogy: “It’s like asking the AI to show its work—because even robots need to pass math class.”
-Example: Compare “What’s 17% of 240?” vs. “Let’s solve this step-by-step: What’s 17% of 240?”
+**Definition:** A technique that encourages the AI to reason through a problem step-by-step before giving an answer.<br>
+**Analogy:** “It’s like asking the AI to show its work—because even robots need to pass math class.”<br>
+**Example:** Compare “What’s 17% of 240?” vs. “Let’s solve this step-by-step: What’s 17% of 240?”
 
 
 3. Why Reasoning Matters (10 min)
 
-Concepts:
+**Concepts:**
 
-Improves accuracy for multi-step problems.
-Reduces hallucinations and overconfident wrong answers.
-Makes outputs easier to audit and trust.
+- Improves accuracy for multi-step problems.
+- Reduces hallucinations and overconfident wrong answers.
+- Makes outputs easier to audit and trust.
 
 
-Humor: “Chain-of-thought prompting: because ‘just trust me bro’ isn’t a valid business strategy.”
+**Humor:** “Chain-of-thought prompting: because ‘just trust me bro’ isn’t a valid business strategy.”
 
 
 4. Building Step-by-Step Prompts (10 min)
@@ -198,13 +192,13 @@ Humor: “Chain-of-thought prompting: because ‘just trust me bro’ isn’t a 
 | Step-by-Step | “Let’s solve this step-by-step. First, add the prices. Then calculate the total.” |
 | Explain Your Reasoning | “Explain how you arrived at the total cost.” |
 
-Tip: Use phrases like “Let’s think step-by-step,” “First… then…,” or “Explain your reasoning.”
+**Tip:** Use phrases like “Let’s think step-by-step,” “First… then…,” or “Explain your reasoning.”
 
 
 5. Practice Activity (5 min)
 
-Activity: Participants rewrite a direct prompt into a chain-of-thought version.
-Example: “What are the pros and cons of remote work?” → “Let’s think step-by-step. First, list the pros. Then, list the cons. Finally, summarize the trade-offs.”
+**Activity:** Participants rewrite a direct prompt into a chain-of-thought version.<br>
+**Example:** “What are the pros and cons of remote work?” → “Let’s think step-by-step. First, list the pros. Then, list the cons. Finally, summarize the trade-offs.”
 
 
 6. Wrap-Up & Q&A (5 min)
@@ -214,48 +208,38 @@ Example: “What are the pros and cons of remote work?” → “Let’s think s
 
 What is chain-of-thought prompting?
 
-A) A way to make AI poetic
-B) A technique for step-by-step reasoning
-C) A method for shortening responses
-D) A way to confuse the AI
-
-
+A) A way to make AI poetic<br>
+B) A technique for step-by-step reasoning<br>
+C) A method for shortening responses<br>
+D) A way to confuse the AI<br>
 
 Why is step-by-step reasoning useful?
 
-A) It makes the AI faster
-B) It improves accuracy and transparency
-C) It reduces server load
-D) It adds humor
-
-
+A) It makes the AI faster<br>
+B) It improves accuracy and transparency<br>
+C) It reduces server load<br>
+D) It adds humor<br>
 
 Which phrase encourages chain-of-thought reasoning?
 
-A) “Just answer quickly”
-B) “Let’s think step-by-step”
-C) “Make it sound fancy”
-D) “Use emojis”
-
-
+A) “Just answer quickly”<br>
+B) “Let’s think step-by-step”<br>
+C) “Make it sound fancy”<br>
+D) “Use emojis”<br>
 
 What’s a benefit of chain-of-thought prompting?
 
-A) It hides the AI’s logic
-B) It makes responses shorter
-C) It helps audit and trust the output
-D) It removes constraints
-
-
+A) It hides the AI’s logic<br>
+B) It makes responses shorter<br>
+C) It helps audit and trust the output<br>
+D) It removes constraints<br>
 
 Which prompt best uses chain-of-thought?
 
-A) “List 5 benefits of exercise.”
-B) “Explain the benefits of exercise step-by-step, starting with physical health.”
-C) “Write about exercise.”
-D) “Make exercise sound fun.”
-
-
+A) “List 5 benefits of exercise.”<br>
+B) “Explain the benefits of exercise step-by-step, starting with physical health.”<br>
+C) “Write about exercise.”<br>
+D) “Make exercise sound fun.”<br>
 
 
 📝 Take-Home Worksheet (Markdown)
@@ -308,22 +292,22 @@ By the end of this session, participants will be able to:
 ## 🗂️ Course Structure (Live Session)
 1. Icebreaker: “AI in Costume” (5 min)
 
-Activity: Ask the AI to respond as a pirate, therapist, and barista to the same question.
-Humor Injection: “Role prompting: because sometimes you need your AI to wear a monocle and speak in Shakespearean verse.”
+**Activity:** Ask the AI to respond as a pirate, therapist, and barista to the same question.<br>
+**Humor:** “Role prompting: because sometimes you need your AI to wear a monocle and speak in Shakespearean verse.”
 
 
 2. What Is Role Prompting? (10 min)
 
-Definition: Assigning a persona or role to the AI to influence tone, style, and domain expertise.
-Example: “Act as a financial advisor and explain compound interest to a teenager.”
-Analogy: “It’s like casting your AI in a movie—give it a role, and it’ll play the part.”
+**Definition:** Assigning a persona or role to the AI to influence tone, style, and domain expertise.<br>
+**Example:** “Act as a financial advisor and explain compound interest to a teenager.”<br>
+**Analogy:** “It’s like casting your AI in a movie—give it a role, and it’ll play the part.”
 
 
 3. What Is Context Framing? (10 min)
 
-Definition: Providing background information or situational setup to guide the AI’s response.
-Example: “Given the following meeting notes, draft a summary for the executive team.”
-Humor: “Context framing is like giving your AI a map before asking it for directions.”
+**Definition:** Providing background information or situational setup to guide the AI’s response.<br>
+**Example:** “Given the following meeting notes, draft a summary for the executive team.”<br>
+**Humor:** “Context framing is like giving your AI a map before asking it for directions.”
 
 
 4. Combining Roles + Context (10 min)
@@ -333,18 +317,16 @@ Humor: “Context framing is like giving your AI a map before asking it for dire
 | Context Only | “Based on this data, write a summary.” |
 | Role + Context | “Act as a data analyst. Based on this dataset, identify trends and write a summary for senior leadership.” |
 
-Tip: Use roles to set tone and expertise, and context to guide task relevance.
+**Tip:** Use roles to set tone and expertise, and context to guide task relevance.
 
 
 5. Practice Activity (5 min)
 
-Activity: Participants choose a task (e.g., writing a report, giving feedback) and write three versions:
+**Activity:** Participants choose a task (e.g., writing a report, giving feedback) and write three versions:
 
-Role only
-Context only
-Role + Context
-
-
+- Role only
+- Context only
+- Role + Context
 
 
 6. Wrap-Up & Q&A (5 min)
@@ -354,48 +336,38 @@ Role + Context
 
 What does role prompting do?
 
-A) Changes the AI’s programming
-B) Assigns a persona to influence tone and expertise
-C) Adds emojis to the response
-D) Makes the AI faster
-
-
+A) Changes the AI’s programming<br>
+B) Assigns a persona to influence tone and expertise<br>
+C) Adds emojis to the response<br>
+D) Makes the AI faster<br>
 
 What is context framing?
 
-A) Giving the AI a background or situational setup
-B) Changing the font of the prompt
-C) Asking the AI to be funny
-D) Removing constraints
-
-
+A) Giving the AI a background or situational setup<br>
+B) Changing the font of the prompt<br>
+C) Asking the AI to be funny<br>
+D) Removing constraints<br>
 
 Which of the following is a role prompt?
 
-A) “Summarize this report.”
-B) “Act as a project manager and summarize this report.”
-C) “Write a summary.”
-D) “Make this sound professional.”
-
-
+A) “Summarize this report.”<br>
+B) “Act as a project manager and summarize this report.”<br>
+C) “Write a summary.”<br>
+D) “Make this sound professional.”<br>
 
 Why combine role and context?
 
-A) To confuse the AI
-B) To improve tone and relevance
-C) To shorten the response
-D) To reduce server load
-
-
+A) To confuse the AI<br>
+B) To improve tone and relevance<br>
+C) To shorten the response<br>
+D) To reduce server load<br>
 
 Which prompt uses both role and context?
 
-A) “Act as a chef.”
-B) “Based on this recipe, write a shopping list.”
-C) “Act as a chef. Based on this recipe, write a shopping list.”
-D) “Write a shopping list.”
-
-
+A) “Act as a chef.”<br>
+B) “Based on this recipe, write a shopping list.”<br>
+C) “Act as a chef. Based on this recipe, write a shopping list.”<br>
+D) “Write a shopping list.”<br>
 
 
 📝 Take-Home Worksheet (Markdown)
@@ -435,7 +407,7 @@ Write a role-based prompt for each scenario:
 
 ## 🧪 Try It Yourself
 
-Write a context-framed prompt for this task:
+Write a context-framed prompt for this task:<br>
 "Create a report on employee engagement survey results."
 
 ## 📚 Suggested Reading
@@ -455,7 +427,7 @@ How does assigning a role or providing context change the AI’s response?
 Apply all concepts from the Experienced level (Courses 4–6) to iteratively design, refine, and optimize a multi-step prompt that solves a real-world problem using role prompting, context framing, and chain-of-thought reasoning.
 
 ## 🗂️ Exercise Structure
-Part 1: Scenario Selection
+**Part 1:** Scenario Selection<br>
 Participants choose one of the following real-world tasks (or bring their own):
 
 - Draft a performance review summary for a team member.
@@ -464,7 +436,7 @@ Participants choose one of the following real-world tasks (or bring their own):
 - Analyze survey results and summarize key insights.
 
 
-Part 2: Prompt Drafting
+**Part 2:** Prompt Drafting<br>
 Write an initial prompt using:
 
 - Clear intent
@@ -472,10 +444,10 @@ Write an initial prompt using:
 - Relevant context
 - A request for step-by-step reasoning
 
-Example:
+*Example:*<br>
 “Act as a business analyst. Given the following survey results, summarize the top 3 concerns raised by employees, and explain your reasoning step-by-step.”
 
-Part 3: Iteration & Refinement
+**Part 3:** Iteration & Refinement<br>
 Participants run their prompt through an AI tool and:
 
 - Diagnose issues with the output (e.g., vague, missing steps, wrong tone).
@@ -483,7 +455,7 @@ Participants run their prompt through an AI tool and:
 - Track at least 2–3 versions and document changes.
 
 
-Part 4: Final Submission
+**Part 4:** Final Submission
 Submit:
 
 - Final version of the prompt
@@ -491,7 +463,7 @@ Submit:
 - Explanation of how role/context/reasoning improved the output
 
 
-Part 5: Reflection
+**Part 5:** Reflection
 Answer the following:
 
 - What was the most challenging part of refining your prompt?
