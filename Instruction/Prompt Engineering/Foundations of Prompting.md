@@ -1,4 +1,4 @@
-# [Index](#index)
+# 🧠 [Index](#-index)
 - [Course 1](#-course-1-what-even-is-a-prompt)
     - [Worksheet](#-course-1-worksheet-what-even-is-a-prompt)
 - [Course 2](#-course-2-prompt-types--their-personalities)
@@ -11,6 +11,8 @@
 
 
 # 🧠 [Course 1: What Even Is a Prompt?](#-course-1-what-even-is-a-prompt)
+
+*[Back to Top](#-index)*
 
 ## 🎯 Learning Objectives
 By the end of this session, participants will be able to:
@@ -96,6 +98,7 @@ D) The AI becomes sentient (just kidding)<br>
 ##📝 Take-Home Worksheet (Markdown)
 
 # 🧠 [Course 1 Worksheet: What Even *Is* a Prompt?](#-course-1-worksheet-what-even-is-a-prompt)
+*[Back to Top](#-index)*
 
 ## ✍️ Key Concepts
 - A **prompt** is the instruction or input given to an AI model.
@@ -124,6 +127,8 @@ Write a prompt for each scenario below:
 
 ---
 # 🧠 [Course 2: Prompt Types & Their Personalities](#-course-2-prompt-types--their-personalities)
+*[Back to Top](#-index)*
+
 
 ## 🎯 Learning Objectives
 By the end of this session, participants will be able to:
@@ -236,6 +241,8 @@ D) Conversational<br>
 
 
 ## 📝 Take-Home Worksheet (Markdown)
+*[Back to Top](#-index)*
+
 
 # 🧠 [Course 2 Worksheet: Prompt Types & Their Personalities](#-course-2-worksheet-prompt-types--their-personalities)
 
@@ -270,6 +277,7 @@ Which prompt type do you think you'll use most in your work, and why?
 ---
 
 # 🧠 [Course 3: Anatomy of a Good Prompt](#-course-3-anatomy-of-a-good-prompt)
+*[Back to Top](#-index)*
 
 
 ## 🎯 Learning Objectives
@@ -376,6 +384,8 @@ D) Using bullet points<br>
 
 
 ## 📝 Take-Home Worksheet (Markdown)
+*[Back to Top](#-index)*
+
 
 # 🧠 [Course 3 Worksheet: Anatomy of a Good Prompt](#-course-3-worksheet-anatomy-of-a-good-prompt)
 
@@ -414,6 +424,8 @@ Which component of prompt writing do you find most challenging, and why?
 ---
 
 # 🧩 [End-of-Level Exercise: “Prompt Makeover Challenge”](#-end-of-level-exercise-prompt-makeover-challenge)
+*[Back to Top](#-index)*
+
 
 
 ## 🎯 Objective

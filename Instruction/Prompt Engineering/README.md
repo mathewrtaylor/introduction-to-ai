@@ -2,28 +2,28 @@
 ## LEVEL 1: Basic (Foundations of Prompting)
 <details>
 
-### [Course 1: What Even Is a Prompt?](Foundations%20of%20Prompting.md)
+### [Course 1: What Even Is a Prompt?](Foundations%20of%20Prompting.md#-course-1-what-even-is-a-prompt)
 
 - **Objective:** Understand what prompts are, why they matter, and how they shape AI responses.
 - **Humor:** “Prompts are like coffee orders for AI—be vague and you get decaf sadness.”
 - **Knowledge Check:** 5–10 MCQs
 - **Worksheet:** Key terms, examples, and beginner readings
 
-### Course 2: Prompt Types & Their Personalities
+### [Course 2: Prompt Types & Their Personalities](Foundations%20of%20Prompting.md#-course-2-prompt-types--their-personalities)
 
 - **Objective:** Explore different prompt styles (instructional, conversational, role-based).
 - **Humor:** “Instructional prompts are the bossy older siblings of the AI world.”
 - **Knowledge Check:** 5–10 MCQs
 - **Worksheet:** Prompt style cheat sheet + reading list
 
-### Course 3: Anatomy of a Good Prompt
+### [Course 3: Anatomy of a Good Prompt](Foundations%20of%20Prompting.md#-course-3-anatomy-of-a-good-prompt)
 
 - **Objective:** Learn structure, clarity, and specificity in prompt writing.
 - **Humor:** “A good prompt is like a dating profile—clear, honest, and not 12 paragraphs long.”
 - **Knowledge Check:** 5–10 MCQs
 - **Worksheet:** Prompt-building template + readings
 
-### End-of-Level Exercise:
+### [End-of-Level Exercise:](Foundations%20of%20Prompting.md#-end-of-level-exercise-prompt-makeover-challenge)
 - Write 3 prompts for different use cases (e.g., summarizing a report, generating ideas, writing an email) and critique them in pairs.
 </details>
 
