@@ -122,10 +122,16 @@ Write a prompt for each scenario below:
 3. You’re writing an email to a vendor about a delayed shipment.
 
 ## 📚 Suggested Reading
-- [OpenAI: Introduction to Prompting](https://platform.openai.com/docs/guides/prompt-engineering)
-- [Prompt Injection Explained](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
+- [OpenAI: Introduction to Prompting](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [Anthropic: Prompt Engineering Tips](https://www.anthropic.com/index/prompt-engineering)
+- [Simon Willison: Prompt Injection Explained](https://simonwillison.net/2022/Sep/12/prompt-injection/)
+
+## 💬 Reflection
+What surprised you about how prompts affect AI responses?
+
 
 ---
+
 # 🧠 [Course 2: Prompt Types & Their Personalities](#-course-2-prompt-types--their-personalities)
 *[Back to Top](#-index)*
 

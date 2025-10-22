@@ -27,31 +27,31 @@
 - Write 3 prompts for different use cases (e.g., summarizing a report, generating ideas, writing an email) and critique them in pairs.
 </details>
 
-## LEVEL 2: Experienced (Prompt Strategy & Optimization)
+## [LEVEL 2: Experienced (Prompt Strategy & Optimization)](Prompt%20Strategy%20&%20Optimization.md#-index)
 <details>
 
-### Course 1: Prompt Tuning & Iteration
+### [Course 4: Prompt Tuning & Iteration](Prompt%20Strategy%20&%20Optimization.md#-course-4-prompt-tuning--iteration)
 
 - **Objective:** Learn how to refine prompts through trial and error.
 - **Humor:** “Prompt tuning is like debugging your AI’s attitude.”
 - **Knowledge Check:** 5–10 MCQs
 - **Worksheet:** Iteration log + readings
 
-### Course 2: Chain-of-Thought & Step-by-Step Reasoning
+### [Course 5: Chain-of-Thought & Step-by-Step Reasoning](Prompt%20Strategy%20&%20Optimization.md#-course-5-chain-of-thought--step-by-step-reasoning)
 
 - **Objective:** Use structured thinking to guide AI responses.
 - **Humor:** “Chain-of-thought prompting: because even AI needs to talk it out sometimes.”
 - **Knowledge Check:** 5–10 MCQs
 - **Worksheet:** Reasoning prompt templates + readings
 
-### Course 3: Role Prompting & Context Framing
+### [Course 6: Role Prompting & Context Framing](Prompt%20Strategy%20&%20Optimization.md#-course-6-role-prompting--context-framing)
 
 - **Objective:** Use roles and context to shape tone and expertise.
 - **Humor:** “Make your AI a pirate, a professor, or a pizza critic—it’s all in the prompt.”
 - **Knowledge Check:** 5–10 MCQs
 - **Worksheet:** Role prompt builder + readings
 
-### End-of-Level Exercise: 
+### [End-of-Level Exercise:](Prompt%20Strategy%20&%20Optimization.md#-end-of-level-exercise-prompt-refinement-lab)
 - Create a multi-step prompt that solves a real-world problem (e.g., analyzing survey data, writing a policy brief).
 </details>
 
