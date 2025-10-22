@@ -1,5 +1,5 @@
 # 🧠 Prompt Engineering Curriculum Structure
-## LEVEL 1: Basic (Foundations of Prompting)
+## [LEVEL 1: Basic (Foundations of Prompting)](Foundations%20of%20Prompting.md#-index)
 <details>
 
 ### [Course 1: What Even Is a Prompt?](Foundations%20of%20Prompting.md#-course-1-what-even-is-a-prompt)

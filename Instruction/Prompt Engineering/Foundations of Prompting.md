@@ -1,4 +1,4 @@
-# 🧠 [Index](#-index)
+# 📖 [Index](#-index)
 - [Course 1](#-course-1-what-even-is-a-prompt)
     - [Worksheet](#-course-1-worksheet-what-even-is-a-prompt)
 - [Course 2](#-course-2-prompt-types--their-personalities)
